@@ -42,9 +42,13 @@ Currently I'm developing [ASNL-dev](https://ASNL-dev.tech "ASNL-dev"): a social 
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vapeasnl)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vapeasnl"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vapeasnl&theme=github"/>
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=vapeasnl&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vapeasnl&show_icons=true&theme=vision-friendly-dark">
