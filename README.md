@@ -45,9 +45,10 @@ Currently I'm developing [ASNL-dev](https://ASNL-dev.tech "ASNL-dev"): a social 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vapeasnl)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vapeasnl"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vapeasnl&theme=github"/>
+
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=vapeasnl&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vapeasnl&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
@@ -57,5 +58,5 @@ Currently I'm developing [ASNL-dev](https://ASNL-dev.tech "ASNL-dev"): a social 
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
