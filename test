@@ -1,0 +1,36 @@
+
+<!--Header Image/GIF that you wish to display -->
+<img src = "Insert your image/GIF url here" /> 
+
+<!-- Main header -->
+<div align="center">
+    <h1>Your Name</h1> 
+</div>
+
+<!-- Introduction -->
+<p align="center">
+    Brief introduction or tagline about yourself or your project.
+</p>
+
+<br><br/>
+
+<!-- Languages & Frameworks section -->
+<div align="center">
+    <h4>Languages & frameworks:</h4>
+    <img src="Insert Language/Framework Logo URL" height="40" alt="Language/Framework Name"  />
+    <!-- Repeat the above line for each language or framework you want to showcase -->
+</div>
+
+<!-- Other Technologies section -->
+<div align="center">
+    <h4>Other Technologies:</h4>
+    <img src="Insert Technology Logo URL" height="40" alt="Technology Name"  />
+    <!-- Repeat the above line for each technology you want to showcase -->
+</div>
+
+<!-- Styling and design section -->
+<div align="center">
+    <h4>Styling and design:</h4>
+    <img src="Insert Styling/Design Tool Logo URL" height="40" alt="Styling/Design Tool Name"  />
+    <!-- Repeat the above line for each styling or design tool you want to showcase -->
+</div>
