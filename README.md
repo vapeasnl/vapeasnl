@@ -1,8 +1,3 @@
-<div id="header" align="center">
-    <a href="yhttps://github.com/dev-dragon-ahmed/">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
-       </a>
-</div>
 # SALIM ABDESSAMAD
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps, Software Engineering & Artificial Intelligence<br>
