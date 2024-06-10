@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps, Software Engineering & Artificial Intelligence<br>
 
-Currently I'm developing [ASNL-dev](https://ASNL-dev.tech "ASNL-dev") : a social media and instant messaging platform<br>
+Currently I'm developing [ASNL-dev](https://ASNL-dev.tech "ASNL-dev") : a hub plateform web for the association<br>
 
 ---
 ### My Stack
